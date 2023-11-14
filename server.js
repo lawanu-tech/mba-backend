@@ -76,7 +76,7 @@ async function init() {
         client2 = await User.create({
             name: "Client2",
             userId: "client02", // It should be atleat 16, else will throw error
-            email: "bhh.lawanu@gmail.com",  // If we don't pass this, it will throw the error
+            email: "lawanu.borthakur@outlook.com",  // If we don't pass this, it will throw the error
             userType: "CLIENT",
             password :bcrypt.hashSync("Welcome1", 8) //this field should be hidden from the end user
 
@@ -84,7 +84,7 @@ async function init() {
         client3 = await User.create({
             name: "Client3",
             userId: "client03", // It should be atleat 16, else will throw error
-            email: "bhh.lawanu@gmail.com",  // If we don't pass this, it will throw the error
+            email: "antwebinfo@gmail.com",  // If we don't pass this, it will throw the error
             userType: "CLIENT",
             password :bcrypt.hashSync("Welcome1", 8) //this field should be hidden from the end user
 
