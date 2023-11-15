@@ -18,7 +18,7 @@ exports.sendEmail = (ticketId, subject, content, emailIds, requester) => {
     /**
      * We can keep this hardcoded URL in the configs files
      */
-    client.post("http://localhost:7777/notifiServ/api/v1/notifications", args, function (data, response) {
+    client.post("https://mba-notification-service.onrender.com/notificationService/api/v1/notification", args, function (data, response) {
         console.log("Request sent");
         console.log(data);
     });
