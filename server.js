@@ -108,7 +108,7 @@ async function init() {
             casts: ["Akshay Kumar", "Jacqueline Fernandiz"],
             director: "Farhad Samji",
             trailerUrl: "http://bacchanpandey/trailers/1",
-            posterUrl: "http://bacchanpandey/posters/1",
+            posterUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ9cOvUisth8cXhqlt1eXvlF-NHWOCwk-5lupES23UpC-fEUI3",
             language: "Hindi",
             releaseDate: "18-03-2022",
             releaseSatus: "RELEASED"
@@ -118,8 +118,8 @@ async function init() {
             description: "Intense Drama Movie",
             casts: ["Vidya Balan", "Shefali Shah"],
             director: "Suresh Triveni",
-            trailerUrl: "http://jalsa/trailers/1",
-            posterUrl: "http://jalsa/posters/1",
+            trailerUrl: "https://Jalsa/trailer/1",
+            posterUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRon_6pCLF2icYJNOdsIpg6cFapkQXHzO3V66TWv0HWUoyHMr6C",
             language: "Hindi",
             releaseDate: "18-03-2022",
             releaseSatus: "RELEASED"
@@ -130,7 +130,7 @@ async function init() {
             casts: ["Amitabh Bachchan", "Abhinay Raj"],
             director: "Nagraj Manjule",
             trailerUrl: "http://jhund/trailers/1",
-            posterUrl: "http://jhund/posters/1",
+            posterUrl: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_TPAO49uN_XE1RHkzJBZEJDVJ6l5_nkO0HpdPK_hy6r-CWFzg",
             language: "Hindi",
             releaseDate: "04-03-2022",
             releaseSatus: "RELEASED"
@@ -141,7 +141,7 @@ async function init() {
             casts: ["Prabhas", "Pooja Hegde"],
             director: "Radha Krishna Kumar",
             trailerUrl: "http://RadheShyam/trailers/1",
-            posterUrl: "http://RadheShyam/posters/1",
+            posterUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdNuGb3WskZbGAtu-n26m6ww3y_sbhSmeR3co5-m9E05JV0Fkz",
             language: "Hindi",
             releaseDate: "11-03-2022",
             releaseSatus: "RELEASED"
@@ -152,7 +152,7 @@ async function init() {
             casts: ["Mithun Chakraborty", "Anupam Kher"],
             director: "Vivek Agnihotri",
             trailerUrl: "http://TheKashmirFiles/trailers/1",
-            posterUrl: "http://TheKashmirFiles/posters/1",
+            posterUrl: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmKgP4vLRXSTqSH267sCvY3l9u5Sqr6FgdGtnFU82-66QAJNL2",
             language: "Hindi",
             releaseDate: "11-03-2022",
             releaseSatus: "RELEASED"
